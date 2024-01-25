@@ -1,10 +1,15 @@
 # MateusOliveira11  
 
-<p>Projeto de previsão do tempo:</p>
+<H1>Projeto de previsão do tempo:</H1>
 <br>
 <br>
- - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
- - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo" />
+<p>Projetinho simples, mas bem caprichoso, é  o projeto previsão do tempo</p>
+
+<h2>Tecnologia usada:</h2>
+<h3>HTML:</h3>
+<h3>CSS:</h3>
+<h3>JS:</h3>
+ 
 
  
 ![previsao](https://github.com/MateusOliveira11/Previsao-do-Tempo/assets/140567978/046802d0-7949-425e-af94-cf7d4a2707c3)
